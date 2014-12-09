@@ -1,0 +1,254 @@
+
+.signup{
+margin:20px auto;
+width:500px;
+background-color:#fff;
+}
+
+.signup h2{
+color:#92CD00;
+font-family: 'PT Sans Narrow',Calibri,'Myriad Pro',Tahoma,Arial;
+font-size:35px;
+display:inline-block;
+padding-bottom:6px;
+margin-bottom:10px;
+margin-top:10px;
+border-bottom:1px solid #92CD00;
+width:100%;
+text-shadow:1px 1px 1px #000;
+letter-spacing:1px;
+}
+
+.signup h2 small , .signup h2 a{
+position:absolute;
+top:24%;
+color:#F49F00;
+font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+font-size:15px;
+text-shadow:0px 0px 0px #000;
+margin-left:5px;
+}
+
+.signup h2 a:hover{
+text-decoration:underline;
+}
+
+
+.signup table{
+width:100%;
+}
+
+.signup table tr td{
+height:60px;
+padding:5px;
+}
+
+.signup input[type=text] , .signup input[type=password] , .signup textarea {
+height:35px;
+font-size:20px;
+padding:5px;
+font-family:arial,helvetica,sans-serif;
+border:1px solid #92CD00 ;
+color:#243300;
+width:300px;
+opacity:0.8;
+}
+
+.signup textarea {
+height:200px;
+width:325px;
+}
+
+.signup input[type=text]:focus , .signup input[type=password]:focus , .signup textarea:focus{
+border:1px solid #F49F00;
+opacity:1;
+}
+
+.signup input[type=submit]{
+padding-top:10px;
+padding-bottom:10px;
+background-color:#3E9100;
+border:1px solid #92CD00;
+color:#fff;
+font-size:20px;
+width:345px;
+font-weight:normal;
+text-shadow:1px 1px 1px #000;
+}
+
+.signup input[type=submit]:hover{
+background-color:#4FB900;
+}
+
+.signup input[type=submit]:focus{
+background-color:#FFCF79;
+color:#000;
+border:none;
+}
+
+.signup form #fullname{
+background-image: url(../img/user.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+text-transform:capitalize;
+}
+
+.signup form #email{
+background-image: url(../img/mail.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+}
+
+.signup form #password{
+background-image: url(../img/lock.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+}
+
+.signup form span{
+color:#fff;
+font-size:14px;
+line-height:20px;
+width:200px;
+background-color:#FFAB0F;
+padding:5px;
+display:none;
+font-weight:bold;
+}
+
+.signup form a{
+color:blue;
+}
+
+/* user-settings.PHP  */
+
+.user-settings{
+margin:20px;
+width:350px;
+background-color:#fff;
+}
+
+.user-settings h2{
+color:#92CD00;
+font-family: 'PT Sans Narrow',Calibri,'Myriad Pro',Tahoma,Arial;
+font-size:35px;
+display:inline-block;
+padding-bottom:6px;
+margin-bottom:10px;
+border-bottom:1px solid #92CD00;
+width:100%;
+text-shadow:1px 1px 1px #000;
+letter-spacing:1px;
+}
+
+.user-settings h2 small , .user-settings h2 a{
+color:#F49F00;
+font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+font-size:15px;
+text-shadow:0px 0px 0px #000;
+}
+
+.user-settings table{
+width:100%;
+}
+
+.user-settings table tr td{
+height:60px;
+}
+
+.user-settings input[type=text] , .user-settings input[type=password] ,.user-settings textarea {
+height:35px;
+font-size:20px;
+padding:5px;
+font-family:arial,helvetica,sans-serif;
+border:1px solid #92CD00 ;
+color:#243300;
+width:300px;
+opacity:0.8;
+padding-left:30px;
+}
+
+.user-settings textarea {
+height:120px;
+}
+
+.user-settings input[type=text]:focus , .user-settings input[type=password]:focus, .user-settings textarea:focus{
+border:1px solid #F49F00;
+opacity:1;
+}
+
+.user-settings input[type=submit]{
+padding-top:10px;
+padding-bottom:10px;
+background-color:#3E9100;
+border:1px solid #92CD00;
+color:#fff;
+font-size:20px;
+width:345px;
+font-weight:normal;
+text-shadow:1px 1px 1px #000;
+}
+
+.user-settings input[type=submit]:hover{
+background-color:#4FB900;
+}
+
+.user-settings input[type=submit]:focus{
+background-color:#FFCF79;
+color:#000;
+border:none;
+}
+
+.user-settings form .fullname{
+background-image: url(../img/user.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+text-transform:capitalize;
+}
+
+.user-settings form .email{
+background-image: url(../img/mail.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+}
+
+.user-settings form .password{
+background-image: url(../img/lock.png);
+background-position:5px;
+background-repeat: no-repeat;
+padding-left:30px;
+}
+
+.user-settings form span{
+color:#fff;
+font-size:14px;
+line-height:20px;
+width:200px;
+background-color:#FFAB0F;
+padding:5px;
+display:none;
+font-weight:bold;
+}
+
+.user-settings form a{
+color:blue;
+}
+
+.security{
+float:right;
+margin-right:50px;
+}
+
+.notifications{
+width:600px;
+}
+
+.notifications p{
+line-height:35px;
+}
+
