@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="130cc5f5-25bc-43d2-8f7e-37c8644a9703" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/049.png" afterPath="$PROJECT_DIR$/admin/img/049.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/063.png" afterPath="$PROJECT_DIR$/admin/img/063.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/079.png" afterPath="$PROJECT_DIR$/admin/img/079.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/091.png" afterPath="$PROJECT_DIR$/admin/img/091.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/148.png" afterPath="$PROJECT_DIR$/admin/img/148.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/161.png" afterPath="$PROJECT_DIR$/admin/img/161.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/arrow.png" afterPath="$PROJECT_DIR$/admin/img/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/avatar.png" afterPath="$PROJECT_DIR$/img/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/bg1.jpg" afterPath="$PROJECT_DIR$/admin/img/bg1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bulb-off.png" afterPath="$PROJECT_DIR$/img/bulb-off.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bulb-on.png" afterPath="$PROJECT_DIR$/img/bulb-on.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg.png" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/img/button_bg.png" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/img/button_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_black.png" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_silver.png" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/img/button_bg_silver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/buttons.png" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/buttons.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/colorpicker.jpg" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/colorpicker.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/contact.png" afterPath="$PROJECT_DIR$/img/contact.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/edit.png" afterPath="$PROJECT_DIR$/img/edit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/edit2.png" afterPath="$PROJECT_DIR$/img/edit2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/error.png" afterPath="$PROJECT_DIR$/img/error.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/img/example.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/img/example.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/facebook.png" afterPath="$PROJECT_DIR$/img/facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/flash.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/flash.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon.gif" afterPath="$PROJECT_DIR$/img/icon.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/img/icons.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/img/icons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/iframe.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/iframe.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/info.png" afterPath="$PROJECT_DIR$/img/info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/items.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/items.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/linkedin.png" afterPath="$PROJECT_DIR$/img/linkedin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/load.gif" afterPath="$PROJECT_DIR$/img/load.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/load2.gif" afterPath="$PROJECT_DIR$/img/load2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon-notes/img/loader.gif" afterPath="$PROJECT_DIR$/addon-notes/img/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/loader1.gif" afterPath="$PROJECT_DIR$/img/loader1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lock.png" afterPath="$PROJECT_DIR$/img/lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo2.gif" afterPath="$PROJECT_DIR$/img/logo2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo_only.gif" afterPath="$PROJECT_DIR$/img/logo_only.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/logout.png" afterPath="$PROJECT_DIR$/admin/img/logout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logout.png" afterPath="$PROJECT_DIR$/img/logout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/mail.png" afterPath="$PROJECT_DIR$/img/mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_check.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/menu_check.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/moxieplayer.swf" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/moxieplayer.swf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/niceEdit/nicEditorIcons.gif" afterPath="$PROJECT_DIR$/js/niceEdit/nicEditorIcons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/pagebreak.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/pagebreak.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/progress.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/progress.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/question.png" afterPath="$PROJECT_DIR$/admin/img/question.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/question.png" afterPath="$PROJECT_DIR$/img/question.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/quicktime.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/quicktime.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/realmedia.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/realmedia.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/response.png" afterPath="$PROJECT_DIR$/img/response.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/img/sample.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/img/sample.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/search.png" afterPath="$PROJECT_DIR$/img/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/img/settings.png" afterPath="$PROJECT_DIR$/admin/img/settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/settings.png" afterPath="$PROJECT_DIR$/img/settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/shockwave.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/shockwave.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide1.jpg" afterPath="$PROJECT_DIR$/slides/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide2.jpg" afterPath="$PROJECT_DIR$/slides/slide2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide3.jpg" afterPath="$PROJECT_DIR$/slides/slide3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide4.jpg" afterPath="$PROJECT_DIR$/slides/slide4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide5.jpg" afterPath="$PROJECT_DIR$/slides/slide5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide6.jpg" afterPath="$PROJECT_DIR$/slides/slide6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide7.jpg" afterPath="$PROJECT_DIR$/slides/slide7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/slide8.jpg" afterPath="$PROJECT_DIR$/slides/slide8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cool.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cool.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cry.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-cry.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-embarassed.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-embarassed.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-foot-in-mouth.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-foot-in-mouth.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-frown.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-frown.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-innocent.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-innocent.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-kiss.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-kiss.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-laughing.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-laughing.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-money-mouth.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-money-mouth.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-sealed.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-sealed.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-smile.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-smile.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-surprised.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-surprised.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-tongue-out.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-tongue-out.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-undecided.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-undecided.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-wink.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-wink.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-yell.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/img/smiley-yell.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/success.png" afterPath="$PROJECT_DIR$/img/success.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/tabs.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/img/tabs.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/tick.png" afterPath="$PROJECT_DIR$/img/tick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/trans.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/trans.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/twitter.png" afterPath="$PROJECT_DIR$/img/twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/user-admin.png" afterPath="$PROJECT_DIR$/img/user-admin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/user.png" afterPath="$PROJECT_DIR$/img/user.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/video.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/video.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/votedown.png" afterPath="$PROJECT_DIR$/img/votedown.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/votedown2.png" afterPath="$PROJECT_DIR$/img/votedown2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/voteoff.png" afterPath="$PROJECT_DIR$/img/voteoff.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/voteon.png" afterPath="$PROJECT_DIR$/img/voteon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/voteup.png" afterPath="$PROJECT_DIR$/img/voteup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/voteup2.png" afterPath="$PROJECT_DIR$/img/voteup2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/warning.png" afterPath="$PROJECT_DIR$/img/warning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/windowsmedia.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/img/windowsmedia.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/img/wline.gif" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/img/wline.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.php" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/Home_login.php" afterPath="$PROJECT_DIR$/config/ajax/Home_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/Main_login.php" afterPath="$PROJECT_DIR$/config/ajax/Main_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/Responses.php" afterPath="$PROJECT_DIR$/config/ajax/Responses.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/abbr.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/abbr.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/abbr.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/abbr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/about.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/about.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/about.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/about.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/access.css" afterPath="$PROJECT_DIR$/css/access.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/acronym.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/acronym.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/acronym.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/acronym.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config/fn/admin-fn.php" afterPath="$PROJECT_DIR$/admin/config/fn/admin-fn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/css/advhr.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/css/advhr.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/css/advimage.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/css/advimage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/css/advlink.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/css/advlink.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/js/advlink.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/js/advlink.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon-notes/ajax-server.php" afterPath="$PROJECT_DIR$/addon-notes/ajax-server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/anchor.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/anchor.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/anchor.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/anchor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/answers.php" afterPath="$PROJECT_DIR$/admin/answers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/ask.css" afterPath="$PROJECT_DIR$/css/ask.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ask.php" afterPath="$PROJECT_DIR$/ask.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/ask_new_que.php" afterPath="$PROJECT_DIR$/config/ajax/ask_new_que.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/attributes.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/attributes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/attributes.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/attributes.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/attributes.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/attributes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/blank.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/blank.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/cell.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/cell.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/cell.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/cell.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/cell.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/cell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/charmap.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/charmap.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/charmap.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/charmap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/cite.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/cite.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/cite.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/cite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/class.html2text.inc" afterPath="$PROJECT_DIR$/config/inc/class.html2text.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/color_picker.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/color_picker.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/color_picker.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/color_picker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/configurations.php" afterPath="$PROJECT_DIR$/config/inc/configurations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/connect.php" afterPath="$PROJECT_DIR$/config/inc/connect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/css/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/default/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/default/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/content.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/fn/crop_img_class.php" afterPath="$PROJECT_DIR$/config/fn/crop_img_class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/customize.js" afterPath="$PROJECT_DIR$/js/customize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/del.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/del.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/del.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/del.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/dialog.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/dialog.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/dialog.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/dialog.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/js/dialog.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/js/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit.php" afterPath="$PROJECT_DIR$/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/editable_selects.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/editable_selects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlist/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autolink/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autoresize/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/bbcode/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/contextmenu/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/directionality/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example_dependency/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/iespell/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/insertdatetime/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/layer/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/legacyoutput/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/lists/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/nonbreaking/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/noneditable/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/pagebreak/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/print/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/save/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/spellchecker/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/tabfocus/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/visualchars/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/wordcount/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/editor_plugin_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/editor_template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/editor_template.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/editor_template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/editor_template_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/editor_template_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/editor_template_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/editor_template_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/element_common.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/element_common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/js/embed.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/js/embed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/jscripts/embed.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/jscripts/embed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/emotions.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/emotions.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/js/emotions.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/js/emotions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/langs/en.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/langs/en.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/autosave/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/langs/en.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/langs/en.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/emotions/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/example/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/langs/en_dlg.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/langs/en_dlg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/example.html" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon-notes/file_uploader.php" afterPath="$PROJECT_DIR$/addon-notes/file_uploader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addon-notes/fn.php" afterPath="$PROJECT_DIR$/addon-notes/fn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/fn/fn.php" afterPath="$PROJECT_DIR$/config/fn/fn.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config/inc/footer.php" afterPath="$PROJECT_DIR$/admin/config/inc/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/footer.php" afterPath="$PROJECT_DIR$/config/inc/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/form_utils.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/form_utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/css/fullpage.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/css/fullpage.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/fullpage.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/fullpage.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/js/fullpage.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullpage/js/fullpage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/fullscreen.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/fullscreen/fullscreen.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/css/general.css" afterPath="$PROJECT_DIR$/admin/css/general.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/general.css" afterPath="$PROJECT_DIR$/css/general.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/js/general.js" afterPath="$PROJECT_DIR$/admin/js/general.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/general.js" afterPath="$PROJECT_DIR$/js/general.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config/inc/header.php" afterPath="$PROJECT_DIR$/admin/config/inc/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/header.php" afterPath="$PROJECT_DIR$/config/inc/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/iefix.css" afterPath="$PROJECT_DIR$/css/iefix.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/image.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/image.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/image.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/image.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/js/image.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advimage/js/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/image.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.php" afterPath="$PROJECT_DIR$/config/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/index.php" afterPath="$PROJECT_DIR$/config/ajax/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cron/index.php" afterPath="$PROJECT_DIR$/config/cron/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/fn/index.php" afterPath="$PROJECT_DIR$/config/fn/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/inc/index.php" afterPath="$PROJECT_DIR$/config/inc/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.php" afterPath="$PROJECT_DIR$/css/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index.php" afterPath="$PROJECT_DIR$/img/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.php" afterPath="$PROJECT_DIR$/js/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/index.php" afterPath="$PROJECT_DIR$/js/tinymce/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/index.php" afterPath="$PROJECT_DIR$/slides/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/ins.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/ins.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/ins.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/js/ins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.form.js" afterPath="$PROJECT_DIR$/js/jquery.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/plugins/jquery.nicescroll.min.js" afterPath="$PROJECT_DIR$/admin/plugins/jquery.nicescroll.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.visible.min.js" afterPath="$PROJECT_DIR$/js/jquery.visible.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib.js" afterPath="$PROJECT_DIR$/js/lib.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/fn/lib.php" afterPath="$PROJECT_DIR$/config/fn/lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/license.txt" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/link.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advlink/link.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/link.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/link.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/link.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/loader.php" afterPath="$PROJECT_DIR$/config/ajax/loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/loader2.php" afterPath="$PROJECT_DIR$/config/ajax/loader2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/login.php" afterPath="$PROJECT_DIR$/admin/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config/logout.php" afterPath="$PROJECT_DIR$/admin/config/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/logout.php" afterPath="$PROJECT_DIR$/config/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/mctabs.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/mctabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/css/media.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/css/media.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/media.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/media.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/js/media.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/media/js/media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/merge_cells.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/merge_cells.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/merge_cells.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/merge_cells.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/niceEdit/nicEdit.js" afterPath="$PROJECT_DIR$/js/niceEdit/nicEdit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/plugins/nicescroll.plus.js" afterPath="$PROJECT_DIR$/admin/plugins/nicescroll.plus.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes.php" afterPath="$PROJECT_DIR$/notes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/password_recovery.php" afterPath="$PROJECT_DIR$/password_recovery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/pastetext.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/pastetext.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/js/pastetext.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/js/pastetext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/pasteword.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/pasteword.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/js/pasteword.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/paste/js/pasteword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/popup.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/xhtmlxtras/css/popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/preview.html" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/preview/preview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/profile.css" afterPath="$PROJECT_DIR$/css/profile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/profile.js" afterPath="$PROJECT_DIR$/js/profile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.php" afterPath="$PROJECT_DIR$/profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/css/props.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/css/props.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/props.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/props.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/js/props.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/style/js/props.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/questions.php" afterPath="$PROJECT_DIR$/questions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/questions.php" afterPath="$PROJECT_DIR$/admin/questions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/reg_new_user.php" afterPath="$PROJECT_DIR$/config/ajax/reg_new_user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cron/remove_old_notifications.php" afterPath="$PROJECT_DIR$/config/cron/remove_old_notifications.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/row.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/row.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/row.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/row.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/row.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/row.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/rule.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/rule.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/js/rule.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/advhr/js/rule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.php" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/search.php" afterPath="$PROJECT_DIR$/config/ajax/search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/css/searchreplace.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/css/searchreplace.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/searchreplace.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/searchreplace.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/js/searchreplace.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/searchreplace/js/searchreplace.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config/ajax/server.php" afterPath="$PROJECT_DIR$/admin/config/ajax/server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/settings.php" afterPath="$PROJECT_DIR$/admin/settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/shortcuts.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/shortcuts.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/fn/simpleimage.php" afterPath="$PROJECT_DIR$/config/fn/simpleimage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/source_editor.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/source_editor.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/source_editor.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/js/source_editor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/table.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/css/table.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/table.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/table.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/table.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/table/js/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/tagLoader.php" afterPath="$PROJECT_DIR$/config/ajax/tagLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags.php" afterPath="$PROJECT_DIR$/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/css/template.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/css/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/template.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/template.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/template.htm" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/template.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/js/template.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/template/js/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce_popup.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce_popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce_src.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/tiny_mce_src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/default/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/ui.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/highcontrast/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/default/ui.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/default/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/ui.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/simple/skins/o2k7/ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unanswered.php" afterPath="$PROJECT_DIR$/unanswered.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/uploadImage.php" afterPath="$PROJECT_DIR$/config/uploadImage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/user_login.php" afterPath="$PROJECT_DIR$/config/user_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/users.php" afterPath="$PROJECT_DIR$/admin/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/validate.js" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/utils/validate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/view.css" afterPath="$PROJECT_DIR$/css/view.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view.php" afterPath="$PROJECT_DIR$/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/viewprofile.php" afterPath="$PROJECT_DIR$/viewprofile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/ajax/voter.php" afterPath="$PROJECT_DIR$/config/ajax/voter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css" afterPath="$PROJECT_DIR$/js/tinymce/jscripts/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css" />
+    </list>
+    <ignored path="THESTUDYBOX-dev.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="THESTUDYBOX-dev" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/inc/connect.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="THESTUDYBOX-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="THESTUDYBOX-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TheStudybox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ASKME" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130cc5f5-25bc-43d2-8f7e-37c8644a9703" name="Default" comment="" />
+      <created>1416150531924</created>
+      <option name="number" value="Default" />
+      <updated>1416150531924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="172" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4963181">
+          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1378486880000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fn/fn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5036819">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_a..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT email..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_u..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT avata..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT avata..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_u..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT uid F..std_followers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT link ..std_notifications..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_n..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_notifications..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT nid F..std_notifications..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT uid F..std_followers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT qid F..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT qid,v..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT aid,v..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT aid,q..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT qid,t..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_a..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_a..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_a..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..std_avotes..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT fulln..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT vid,t..std_avotes..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..std_qvotes..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT views..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="UPDATE std_q..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT title..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT tags,..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..std_qvotes..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..std_qvotes..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT ${$da..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT avata..std_users..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT ${$da..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT ${$da..std_answers..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT qid F..std_questions..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="SELECT uid,f..std_users..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1384766603000" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ask.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/inc/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1378921013000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/inc/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08394698">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/inc/configurations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fn/lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1546391">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/fn/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
